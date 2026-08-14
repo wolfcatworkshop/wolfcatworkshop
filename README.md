@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Federico
+
+I make things with machines and with my hands. 
+I'm part of the cuttle.xyz team. 
+
+https://wolfcatworkshop.com
 
 <!--
 **wolfcatworkshop/wolfcatworkshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
