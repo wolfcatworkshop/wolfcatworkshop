@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Federico
 
 I make things with machines and with my hands. 
-I'm part of the cuttle.xyz team. 
+
+I'm part of the [cuttle.xyz](https://cuttle.xyz) team. 
 
 https://wolfcatworkshop.com
 
