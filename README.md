@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Federico
+## Hi there 👋 I'm Federico ✨
 
-I make things with machines and with my hands. 
-
-I'm part of the [cuttle.xyz](https://cuttle.xyz) team. 
+- 🖐️ I make things with machines and with my hands. 
+<br>
+- ✂︎ Also part of the [cuttle.xyz](https://cuttle.xyz) team. 
 
 https://wolfcatworkshop.com
 
